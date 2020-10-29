@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://ktmrmshk.github.io/testweb/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 19:28:10 +0900</lastBuildDate><atom:link href="https://ktmrmshk.github.io/testweb/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>https://ktmrmshk.github.io/testweb/posts/third/</link>
+      <pubDate>Thu, 29 Oct 2020 19:28:10 +0900</pubDate>
+      
+      <guid>https://ktmrmshk.github.io/testweb/posts/third/</guid>
+      <description>This is example of link:
+third
+import requests def func123(args): return len(args) </description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://ktmrmshk.github.io/testweb/posts/second/</link>
+      <pubDate>Thu, 29 Oct 2020 18:18:13 +0900</pubDate>
+      
+      <guid>https://ktmrmshk.github.io/testweb/posts/second/</guid>
+      <description>This is second page
+Titile 123  foobar
+ I have a pen. I have a pen. I have a pen. I have a pen. I have a pen. I have a pen.
+&amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt;   </description>
+    </item>
+    
+    <item>
+      <title>Myfirst</title>
+      <link>https://ktmrmshk.github.io/testweb/posts/myfirst/</link>
+      <pubDate>Thu, 29 Oct 2020 18:14:12 +0900</pubDate>
+      
+      <guid>https://ktmrmshk.github.io/testweb/posts/myfirst/</guid>
+      <description>Dresp A web server serving stupid responses
+Github: https://github.com/ktmrmshk/Dresp
+Dresp supports methods HEAD, GET, POST, DELETE and DELETE.
+Your Browser Stupid Responder (client) (Dresp) as an Origin Server +--------------+ * Query Strings +------------------------------------+ | | * Requesst Headers | | | requrst1 | +----------------------------------+ | | | | v | | | w/ Intentional | * Generating response headers | | | Response Header | + | | response1 | &amp;lt;----------------------------------+ | +--------------+ | | | | +--------------+ | | | | * /foobar/4xx.</description>
+    </item>
+    
+  </channel>
+</rss>

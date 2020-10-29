@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on My New Hugo Site</title>
+    <link>https://ktmrmshk.github.io/testweb/categories/python/</link>
+    <description>Recent content in Python on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Oct 2020 19:28:10 +0900</lastBuildDate><atom:link href="https://ktmrmshk.github.io/testweb/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>https://ktmrmshk.github.io/testweb/posts/third/</link>
+      <pubDate>Thu, 29 Oct 2020 19:28:10 +0900</pubDate>
+      
+      <guid>https://ktmrmshk.github.io/testweb/posts/third/</guid>
+      <description>This is example of link:
+third
+import requests def func123(args): return len(args) </description>
+    </item>
+    
+  </channel>
+</rss>
